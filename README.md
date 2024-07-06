@@ -26,6 +26,3 @@ Thank you all for your hard work and dedication!
 
 #AI #MachineLearning #DeepLearning #ComputerVision #CatFacialAnalysis #VGG16 #VGG19 #CNN #DataScience #Innovation
 
----
-
-Feel free to customize this post further to align with your style and preferences!
